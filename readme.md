@@ -3,7 +3,7 @@
 ## Description
 Collection of file readers for working with Deepriser and shear7 files.
 
-Note I have not worked in the industry since August 2023.
+Note I have not worked in the industry since August 2022.
 These are not being actively worked on and any updates to Shear7/Deepriser after that date will not be accounted for.
 
 Uploading here for anyone interested.
